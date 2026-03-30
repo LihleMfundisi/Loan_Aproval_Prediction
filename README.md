@@ -1,6 +1,6 @@
 # Loan Approval Prediction - SQL Analysis Project
 
-## Project Overview:
+# Project Overview:
 
 This project analyzes a loan application dataset to uncover key factors influencing loan approval decisions. The goal is to simulate a real-world data analyst workflow: from raw data ingestion and cleaning to feature engineering and insight generation.
 
@@ -36,7 +36,7 @@ Key cleaning steps performed:
 * Standardized categorical values
 * Removed or corrected invalid entries
 
-## ⚙️ Feature Engineering
+## Feature Engineering
 
 A new target variable 'loan_approved' was created using business logic:
 
@@ -73,19 +73,19 @@ Loan approval rates tend to decrease as the number of dependents increases, indi
 * PostgreSQL
 * SQL (Data Cleaning & Analysis)
 
-## 🚀 Future Improvements
+## Future Improvements
 
 * Perform analysis using Python (Pandas, Matplotlib, Seaborn)
 * Build a predictive model (Logistic Regression)
 * Develop a simple web app for loan approval prediction
 
-## 💡 Key Takeaway
+## Key Takeaway
 
 This project demonstrates the ability to transform raw data into actionable insights using SQL, with a focus on business understanding and decision-making.
 
 ---
 
-## 📎 How to Run
+## How to Run
 
 1. Create a PostgreSQL database
 2. Import the dataset (CSV)
